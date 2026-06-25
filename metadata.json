@@ -1,0 +1,11 @@
+{
+  "name": "Remix: VestApp",
+  "description": "Plataforma de estudos inteligente para vestibulandos com cronograma personalizado e IA.",
+  "requestFramePermissions": [
+    "clipboard-write",
+    "clipboard-read"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
