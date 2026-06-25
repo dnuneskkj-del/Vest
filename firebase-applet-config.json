@@ -1,10 +1,10 @@
 {
-  "projectId": "remixed-project-id",
-  "appId": "remixed-app-id",
-  "apiKey": "remixed-api-key",
-  "authDomain": "remixed-auth-domain",
+  "projectId": "crypto-district-7ln7n",
+  "appId": "1:292034180924:web:19712da65a3b4ef0029039",
+  "apiKey": "AIzaSyBZ7yd-f1nnYc80CWIWLOS-b7BkYwWgEeA",
+  "authDomain": "crypto-district-7ln7n.firebaseapp.com",
   "firestoreDatabaseId": "remixed-firestore-database-id",
-  "storageBucket": "remixed-storage-bucket",
-  "messagingSenderId": "remixed-messaging-sender-id",
-  "measurementId": "remixed-measurement-id"
+  "storageBucket": "crypto-district-7ln7n.firebasestorage.app",
+  "messagingSenderId": "292034180924",
+  "measurementId": ""
 }
